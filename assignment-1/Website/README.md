@@ -1,5 +1,5 @@
 # PESUIO Assignment-1
-## PDF Based RAG system
+## Website Based RAG system
 ## Objective
 
 Create and evaluate a RAG (Retrieval-Augmented Generation) systema using LlamaIndex for Website based content.
