@@ -1,4 +1,5 @@
 # PESUIO Assignment-1
+## PDF Based RAG system
 ## Objective
 
 Create and evaluate two RAG (Retrieval-Augmented Generation) systems using LlamaIndex - one for PDF documents and another for website content.
@@ -7,7 +8,8 @@ Create and evaluate two RAG (Retrieval-Augmented Generation) systems using Llama
 For the PDF Based RAG system, a 114 page PDF text document is used as the knowledge base.
 
 ## Implementation Details 
-For this project we will 2. Implement RAG using:
+For this project we will implement RAG using:
+    
     - LlamaIndex (orchestration)
     - Groq (LLM provider)
     - Qdrant (vector store)
@@ -15,7 +17,8 @@ For this project we will 2. Implement RAG using:
 
 
 Groq Models used for comparision: 
-    - llama-3-1-70b-versatile
+    
+    - llama-3-1-70b-versatile 
     - mixtral-8x7b-32768
     - gemma-7b-it 
 
