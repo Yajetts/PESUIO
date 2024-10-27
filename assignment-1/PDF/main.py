@@ -1,3 +1,4 @@
+# With mixtral-8x7b-32768 as groq model
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from llama_index.embeddings.jinaai import JinaEmbedding
 from llama_index.llms.groq import Groq
@@ -67,3 +68,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
