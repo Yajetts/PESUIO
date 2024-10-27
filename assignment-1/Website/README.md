@@ -17,7 +17,7 @@ RAG implemented using llamaIndex and llama-3.1-70b-versatile Groq Cloud LLM mode
 
 Answer: Python fully supports object-oriented programming (OOP) concepts. Classes, objects, inheritance, encapsulation, and polymorphism are fundamental features of Python.
 
-2. What is a python Class?
+2.What is a python Class?
 
 Answer: A Python class contains the blueprints or the prototype from which the objects are being created. It is a logical entity that contains some attributes and methods.
 
@@ -49,7 +49,7 @@ Answer: Python inheritance refers to the ability of one class to inherit propert
 
 ## Performance Analysis 
 
-From the above question-response set it can be assesed that the answers are simple and to the point. The model will only provide a detailed explanation if the query is asking for it. It can also be seen that the model cannot provide information on topics that are not listed in the given webpage and can only generate responses for information that is available to it 
+From the above question-response set it can be assesed that the answers are simple and to the point. The model will only provide a detailed explanation if the query is asking for it. It can also be seen that the model cannot provide information on topics that are not listed in the given webpage and can only generate responses for information that is available to it.
 
 
 ## Problems and Solutions 
