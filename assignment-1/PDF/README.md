@@ -99,3 +99,24 @@ Answer: According to de Broglie's hypothesis, moving matter exhibits wave charac
 Answer: The provided text suggests that the wave function Ψ(x,y,z,t) contains all the possible information about the state of a system in motion.
 
 
+## Model Comparision Results:
+
+ As we can see from the question-response sets mixtral-8x7b-32768 is the most accurate and well performing model as it provides detailed answers to the questions using simple language that is easily understable and clear. 
+
+ The llama-3-1-70b-versatile model can provide good answers as well but with brief explanation that can be helpful for a quick brush-up of the topic, which in this case are physics concepts, for a person that already has a good level of knowledge of these topics.
+
+ gemma-7b-it is the most under performing model out of the three, giving one-line. short answers with little explanation. Some of the answers are also deviating from the context of the question asked.
+
+ ## Challenges and Solutions 
+
+#Some challenges that may arise while utilising this model
+
+1. Inaccurate answers 
+2. Time-taking responses
+3. Inability to generate an answer
+
+#Solutions to these example challenges: 
+
+1. Use a larger dataset as the models knowledge base
+2. Make the model more efiicient by using the latest clouds and libraries
+3. Check the program for bugs or mistakes and fix them, try using laternate coding syntax to see if it can bring a change. 
