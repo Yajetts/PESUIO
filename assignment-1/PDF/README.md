@@ -9,6 +9,7 @@ For the PDF Based RAG system, a 114 page PDF text document is used as the knowle
 
 ## Implementation Details 
 RAG implemented using:    
+    
     - LlamaIndex (orchestration)
     - Groq (LLM provider)
     - Qdrant (vector store)
