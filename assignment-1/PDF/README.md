@@ -22,7 +22,7 @@ Groq Models used for comparision:
     - mixtral-8x7b-32768
     - gemma-7b-it 
 
-# Questions and Responses for 'mixtral-8x7b-32768' model:
+## Questions and Responses for 'mixtral-8x7b-32768' model:
 
 1.Enter your question (or 'quit' to exit): What is the primary difference between a discrete emission line spectrum and an absorption line spectrum?
 
@@ -54,6 +54,48 @@ Answer: The wave function Ψ(x,y,z,t)Ψ(x,y,z,t) contains all the possible infor
 
 
 
-# Questions and Responses for 'llama-3-1-70b-versatile' model:
+## Questions and Responses for 'llama-3-1-70b-versatile' model:
+
+1. Enter your question (or 'quit' to exit): What is the primary difference between a discrete emission line spectrum and an absorption line spectrum?
+
+Answer: The primary difference between a discrete emission line spectrum and an absorption line spectrum is that a discrete emission line spectrum consists of discrete lines that are emitted, whereas an absorption line spectrum consists of discrete lines that are absent, having been absorbed from a continuous spectrum.
+
+2. Enter your question (or 'quit' to exit):  What is the Compton shift and how does it depend on the scattering angle?
+
+Answer: The Compton shift is the difference between the modified and unmodified wavelength components, denoted as λf - λi. It is also represented as Δλ. The Compton shift increases with the increasing scattering angle θ, and it depends only on the angle of scattering, not on the incident wavelength
+
+3.Why can't electrons exist within the nucleus?
+
+Answer: Electrons cannot exist within the nucleus because, if confined to the diameter of the nucleus, the uncertainty principle would imply a minimum momentum, and consequently, a very high energy, roughly estimated to be more than 20 MeV, from relativistic calculations, and approximately 96 MeV from a non-relativistic estimation. This is contradictory to the energies observed in radioactive β decay where electrons are emitted from the nucleus with energies of the order of 8 MeV.
+
+4.What does de Broglie’s hypothesis suggest about the wave nature of moving matter?
+
+Answer: De Broglie’s hypothesis suggests that moving matter should exhibit wave characteristics and that the wavelength of the associated waves (λ) is equal to Planck's constant (h) divided by the momentum (p) of the particle.
+
+5.How does the wave function Ψ(x,y,z,t) describe the state of a system in motion?               
+
+Answer: The wave function Ψ(x,y,z,t) contains all the possible information about the system. It represents the state of a system in motion, accounting for the wave-like properties of a particle
+
+## Questions and Responses for 'gemma-7b-it' model:
+
+1.What is the primary difference between a discrete emission line spectrum and an absorption line spectrum?
+
+Answer: The primary difference between a discrete emission line spectrum and an absorption line spectrum is the presence of discrete lines in the emission spectrum and their absence in the absorption spectrum.
+
+2.What is the Compton shift and how does it depend on the scattering angle?
+
+Answer: The Compton shift is the difference between the wavelengths of scattered and unscattered photons, indicating an enhancement in wavelength. It increases with the increasing scattering angle.
+
+3.Why can't electrons exist within the nucleus?
+
+Answer: The provided text suggests that the high energy and confinement of electrons within the nucleus violate the principles of quantum mechanics, leading to an uncertainty in their momentum that cannot be reconciled with their presence within the nucleus.
+
+4.What does de Broglie’s hypothesis suggest about the wave nature of moving matter?
+
+Answer: According to de Broglie's hypothesis, moving matter exhibits wave characteristics. The hypothesis suggests that every moving particle, regardless of its size or mass, possesses wave-like properties.
+
+5.How does the wave function Ψ(x,y,z,t) describe the state of a system in motion?
+
+Answer: The provided text suggests that the wave function Ψ(x,y,z,t) contains all the possible information about the state of a system in motion.
 
 
